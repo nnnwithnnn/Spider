@@ -17,3 +17,9 @@ Note: This is part of an open source search engine. The purpose of this tool is 
 - [Twitter](https://twitter.com/bucky_roberts)
 - [Google+](https://plus.google.com/+BuckyRoberts)
 - [reddit](https://www.reddit.com/r/thenewboston/)
+
+Do Change in main.py with respective website name and then save it and also chnage project name, save this python script. Final step is run it and all done. 
+You will get a project name which you mention and there your respective files will be saved.
+
+Thanks Boston for this.
+Narendra.
